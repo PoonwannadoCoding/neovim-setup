@@ -28,6 +28,10 @@ Then we type
 ```
 :PlugInstall
 ```
+exit the init then
+```
+sudo apt-get install exuberant-ctags
+```
 For auto complete COC you have to add your language read the website there will have the command to install the command for each language
 ```
 https://github.com/neoclide/coc.nvim/wiki/Using-coc-extensions
